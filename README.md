@@ -9,6 +9,8 @@
 
 [![codecov](https://codecov.io/gh/sameer/svg2gcode/branch/master/graph/badge.svg)](https://codecov.io/gh/sameer/svg2gcode)
 
+NB: All credit goes to Sameer, I've forked this version to break it and understand it so I can assist in creating new features (hopefully), such as gcode raster scan fills, gcode colour change support, infinite input/output scaling etc.
+
 Convert vector graphics to g-code for pen plotters, laser engravers, and other CNC machines
 
 ## Usage
